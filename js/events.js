@@ -11,7 +11,7 @@ frameIt = function(){
   });
 };
 
-submitIt = function() {
+pressIt = function() {
   
 };
 
