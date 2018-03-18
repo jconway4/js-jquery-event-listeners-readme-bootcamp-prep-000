@@ -7,7 +7,7 @@ getIt = function(){
 
 frameIt = function(){
   $('img'.on('load', function() {
-    
+    'im'g
   }));
 };
 
