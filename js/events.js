@@ -1,12 +1,14 @@
 //define functions here
 getIt = function(){
-  $('p').on('click', function(){
+  $('p').on('click', function() {
     alert('Hey!');
   });
 };
 
 frameIt = function(){
-  $()
+  $('img'.on('load', function() {
+    
+  }));
 };
 
 $(document).ready(function(){
