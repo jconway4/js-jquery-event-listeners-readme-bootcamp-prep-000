@@ -12,7 +12,9 @@ frameIt = function(){
 };
 
 pressIt = function() {
-  
+  $('form').on('keydown', function(key) {
+    
+  });
 };
 
 $(document).ready(function(){
