@@ -20,7 +20,9 @@ pressIt = function() {
 };
 
 submitIt = function() {
-  
+  $('form').on('submit', function() {
+    alert("")
+  });
 };
 
 $(document).ready(function(){
